@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_text_size_big">34sp</dimen>
+    <dimen name="txt_result_huge">60sp</dimen>
+    <dimen name="txt_result_normal">42sp</dimen>
+    <dimen name="txt_equal_btn">40sp</dimen>
+    <dimen name="btn_history_size">20sp</dimen>
+    <dimen name="txt_history_activity_big">56sp</dimen>
+    <dimen name="txt_history_activity_small">46sp</dimen>
+</resources>
